@@ -1,0 +1,1 @@
+browser-sync --start --file "*.html, css/*.css, js/*.js"
